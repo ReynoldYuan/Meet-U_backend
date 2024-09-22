@@ -1,0 +1,40 @@
+{
+  "name": "meetuvue-back",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-regular-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.7.4",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.3",
+    "jquery": "^3.7.1",
+    "meetuvue-back": "file:",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "owl.carousel": "^2.3.4",
+    "pinia": "^2.2.2",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "sweetalert2": "^11.12.4",
+    "tempusdominus-bootstrap-4": "^5.39.2",
+    "tocas": "^5.0.1",
+    "vue": "^3.4.29",
+    "vue-chartjs": "^5.3.1",
+    "vue-router": "^4.4.3",
+    "vuejs-paginate-next": "^1.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
